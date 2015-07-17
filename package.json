@@ -1,0 +1,15 @@
+{
+  "name": "KCG_web_boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kimchulki77"
+  },
+  "author": "kcg",
+  "license": "ISC"
+}

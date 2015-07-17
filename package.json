@@ -11,5 +11,8 @@
     "url": "https://github.com/kimchulki77"
   },
   "author": "kcg",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-spritesmith": "^4.7.1"
+  }
 }
